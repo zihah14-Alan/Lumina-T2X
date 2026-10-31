@@ -1,3 +1,4 @@
+> This fork is my reproduction & extension of Lumina-Next (work in progress).
 <!-- <p align="center">
  <img src="./assets/lumina-logo.png" width="40%"/>
  <br>
