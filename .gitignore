@@ -163,3 +163,16 @@ cython_debug/
 test_*
 
 results/
+
+# --- added by Alan: never commit weights, datasets, outputs, or secrets ---
+*.pth
+*.safetensors
+*.ckpt
+*.bin
+checkpoints/
+ckpts/
+data/imagenet*/
+outputs/
+samples/
+*.log
+.hf_token
